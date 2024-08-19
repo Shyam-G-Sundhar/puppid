@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463146455368",
+    "project_id": "puppid",
+    "storage_bucket": "puppid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463146455368:android:24a28f8f1ee3b5b5a5237d",
+        "android_client_info": {
+          "package_name": "com.example.puppid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3CztgVWlvHXq_CVUS-_eSDYBXVLAR7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
